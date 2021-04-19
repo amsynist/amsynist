@@ -12,3 +12,8 @@ Am a beginner and interested in learning design,Programming and Tech stuff .
 ![amsynist github stats](https://github-readme-stats.vercel.app/api?username=amsynist&count_private=true&show_icons=true&theme=onedark)
 
 </details>
+## ⚡ Interested in:
+- Technology
+- Coding
+- Gfx and Designing 
+
