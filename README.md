@@ -2,8 +2,8 @@ Am a beginner and interested in learning design,Programming and Tech stuff .
 
   Gfx and Coding as a hobby
 
-[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@Amsynist&color=5b5b5b&labelColor=5b5b5b)](https://github.com/amsynist)
-
+[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@Amsynist&color=5b5b5b&labelColor=5b5b5b)(https://github.com/amsynist)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(Https://www.instagram.com/pravinprvs)
 <details>
 <summary>⚡️ More about me</summary>
 <br />
