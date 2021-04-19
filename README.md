@@ -8,10 +8,7 @@ Am a beginner and interesting in learning design,Programming and Tech stuff .
 <summary>⚡️ Let the Code Flow</summary>
 <br />
 
-![LeetCode progress](https://leetcode-badge.chyroc.cn/?name=zheeeng&refresh=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
-
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+![amsynist github stats](https://github-readme-stats.vercel.app/api?username=amsynist&count_private=true&show_icons=true&theme=onedark)
 
 </details>
