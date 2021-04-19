@@ -1,4 +1,4 @@
-Am a beginner and interesting in learning design,Programming and Tech stuff .
+Am a beginner and interested in learning design,Programming and Tech stuff .
 
   Gfx and Coding as a hobby
 
