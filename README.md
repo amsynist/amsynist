@@ -1,6 +1,6 @@
 ### Voila! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Am a beginner and interested in learning design,Programming and Tech stuff .
+Am a beginner and interested in learning Designing,Programming and Tech stuff .
 
   Gfx and Coding as a hobby
 
