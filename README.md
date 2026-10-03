@@ -29,6 +29,6 @@ Exploring the tech ...
 
 
 [insta-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[insta-url]: https://www.instagram.com/zeronedinsta
+[insta-url]: https://www.instagram.com/pravincodes
 
 
